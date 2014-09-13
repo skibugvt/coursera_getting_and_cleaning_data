@@ -9,7 +9,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Please see the README and features.txt files in the original dataset to learn more about the feature selection for this dataset.
 
-For this project it was neccessary to extra measurements that were of type mean or standard deviations in the origina data.  Here are the variables that were extracted -
+For this project it was neccessary to extra measurements that were of type mean or standard deviations in the original data.  Here are the variables that were extracted -
 
 "tbodyacc-mean()-x"
 "tbodyacc-mean()-y"
